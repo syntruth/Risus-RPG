@@ -1,0 +1,6 @@
+A Ruby library for modelling and semi-abstracting a Risus RPG Character.
+
+The Risus RPG: http://www222.pair.com/sjohn/risus.htm
+
+This lib has support for both pumped and funky-dice Cliches.
+
