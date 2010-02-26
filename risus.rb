@@ -2,7 +2,10 @@
 # Risus RPG Module in Ruby
 # Created by Randy Carnahan June, 2009
 # Free to Redistribute but please keep this header intact.
-
+#
+# See here for distribution details:
+#  http://www222.pair.com/sjohn/risus-usage.htm
+#
 # VERSION:: 1.2
 
 # Change Log::
